@@ -1,3 +1,4 @@
+[Patika Dev] (https://app.patika.dev/tarf)
 
 # kodluyoruzilkrepo
 Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo.
